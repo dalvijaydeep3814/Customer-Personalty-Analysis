@@ -7,7 +7,7 @@
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/Blog_Banner_v1-01-1024x410.jpg' width='600px' ></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/Blog_Banner_v1-01-1024x410.jpg' width='600px' ></img>
 ----------------------------------
 ## Content 📃:
 **Attributes**
@@ -70,39 +70,39 @@ Filled the null values by mean of that column. Performed *Exploratory Data Analy
 
 Line[39]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot.png' height=300px, width=350px></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/newplot.png' height=300px, width=350px></img>
 
 Line[40]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot2.png' height=300px, width=350px></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/newplot2.png' height=300px, width=350px></img>
 
 Line[41]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot3.png' height=300px, width=350px></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/newplot3.png' height=300px, width=350px></img>
 
 Line[42]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot4.png' height=300px, width=350px></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/newplot4.png' height=300px, width=350px></img>
 
 Line[43]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot5.png' height=300px, width=350px></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/newplot5.png' height=300px, width=350px></img>
 
 Line[44]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot6.png' height=300px, width=350px></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/newplot6.png' height=300px, width=350px></img>
 
 Line[45]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot7.png' height=300px, width=350px></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/newplot7.png' height=300px, width=350px></img>
 
 Line[46]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot8.png' height=300px, width=350px></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/newplot8.png' height=300px, width=350px></img>
 
 Line[47]:
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/newplot9).png' height=300px, width=350px></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/newplot9).png' height=300px, width=350px></img>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tableau Dashboards:
@@ -110,12 +110,12 @@ Line[47]:
 Dashboard 1:
 (by **data_visuals.csv**)
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/Dashboard1.png'></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/Dashboard1.png'></img>
 
 Dashboard 2:
 (by **data_visuals2.csv**)
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Customer%20Personality%20Analysis/Images/Dashboard2.png'></img>
+<img src='https://github.com/dalvijaydeep3814/Customer-Personalty-Analysis/blob/main/Images/Dashboard2.png'></img>
 
 -----------------------------------------------------------------------------------------------------------------
 ## Thank You⭐
